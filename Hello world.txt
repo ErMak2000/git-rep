@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Print("hello world") 
 Print("protokol 2000 zapushen") 
 Print("Djon v Opasnosti") 
